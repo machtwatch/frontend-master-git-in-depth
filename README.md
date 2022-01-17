@@ -138,8 +138,6 @@ Your branch is up-to-date with 'origin/exercise2'.
 nothing to commit, working directory clean
 ```
 
-As you can see, our `HEAD` is still pointed at `exercise2`, and our working directory is clean. The major benefit here is that we are now free to change branches, do other work, etc. without our changes getting in the way.
-
 Now we're ready to apply that change that we stashed. Where is it?
 
 ```
